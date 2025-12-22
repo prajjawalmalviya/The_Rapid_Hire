@@ -1,0 +1,6 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Verify header link click behavior","1","0","Click on Services and Blog header links","0"
+"0","","0","Verify header navigation and logo visibility","1","0","Click on links in HeaderNavigation Links","0"
+"0","","0","Verify Home Page functionality of TheRapidHire Website","1","0","User opens the home page","0"
+"0","","0","Verify logo click behavior when offline","1","0","Clicking the logo while offline should not refresh the page or show a warning","0"
+"0","","0","Verify header navigation and logo visibility","1","0","Logo and navigation menu are visible","0"

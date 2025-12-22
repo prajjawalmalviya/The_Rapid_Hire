@@ -6,7 +6,7 @@ import io.cucumber.testng.CucumberOptions;
 	@CucumberOptions
 			(features = "src/test/java/resources/features", 
 			 glue = "stepDefinitions",
-			 plugin = { "pretty", "html:target/cucumber-report.html","json:target/cucumber.json" },
+			 plugin = { "pretty", "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm" },
 			 monochrome = true,
 			 tags = "@HomePage or @HeaderNavigation or @HeaderLinkClick or @OfflineLogoBehaviour"
 			 		

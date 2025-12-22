@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11565","Click on Services and Blog header links","","2025-12-22","passed","2025-12-22","","Verify header link click behavior","Click on Services and Blog header links",""
+"","10278","Click on links in HeaderNavigation Links","","2025-12-22","passed","2025-12-22","","Verify header navigation and logo visibility","Click on links in HeaderNavigation Links",""
+"","7172","User opens the home page","","2025-12-22","passed","2025-12-22","","Verify Home Page functionality of TheRapidHire Website","User opens the home page",""
+"","10906","Clicking the logo while offline should not refresh the page or show a warning","","2025-12-22","passed","2025-12-22","","Verify logo click behavior when offline","Clicking the logo while offline should not refresh the page or show a warning",""
+"","8920","Logo and navigation menu are visible","","2025-12-22","passed","2025-12-22","","Verify header navigation and logo visibility","Logo and navigation menu are visible",""
